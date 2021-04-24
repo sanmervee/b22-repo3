@@ -4,4 +4,3 @@ few thing happened:
 1. It automatically created new remote repo under your github account
 2. Made the connection with your local git repo
 3. Added all your commits to remote repo
-x
